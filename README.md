@@ -4,9 +4,10 @@
 🌐 Website: https://app-reza.com  
 💼 LinkedIn: https://linkedin.com/in/rezafattahi  
 📧 Email: rezafatahy@gmail.com
-**Top Repos:
+
+**Top Repos:**
  - (https://github.com/rezafattahie/listen-repeat-angular-demo)
- - (https://github.com/rezafattahie/transactions-angular)**
+ - (https://github.com/rezafattahie/transactions-angular)
 
 ![](https://komarev.com/ghpvc/?username=rezafattahie&style=flat-square)
 
