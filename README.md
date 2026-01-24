@@ -26,7 +26,7 @@ I care about solid component structure, reliable API integration, and a great us
 - **Frontend:** Angular (v20), TypeScript, RxJS, HTML5, CSS/SCSS, TailwindCSS, Responsive UI
 - **API:** REST, JSON, Postman/Swagger
 - **Workflow:** Git/GitHub, Agile/Scrum, Debugging, Performance
-- 
+  
 ---
 
 ## 📌 Open to opportunities
