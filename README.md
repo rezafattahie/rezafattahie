@@ -34,6 +34,12 @@
 
 ---
 
+## Top Repos:
+> - Repo: (https://github.com/rezafattahie/listen-repeat-angular-demo)
+> - - Repo: (https://github.com/rezafattahie/transactions-angular)
+
+---
+
 ## Featured project
 ### 🇩🇪 German Learning PWA (Production)
 **Live:** https://app-reza.com
@@ -42,17 +48,6 @@ Highlights:
 - Interactive learning flow (video + subtitles + practice)
 - REST-based data flow and structured JSON handling in the UI
 - Installable PWA + responsive UI with a strong usability focus
-- Daily backup scripts in Python for data safety
-
-> 🔗 Add your repository link here:
-> - Repo: https://github.com/rezafattahie/<YOUR-REPO-NAME>
-
----
-
-## GitHub stats
-![GitHub Streak](https://streak-stats.demolab.com?user=rezafattahie&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezafattahie&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezafattahie&layout=compact&hide_border=true)
 
 ---
 
