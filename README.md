@@ -29,9 +29,10 @@
 ---
 
 ## About me
-- **1.5+ years** hands-on experience with **Angular + TypeScript**, building reusable components, integrating REST APIs, and improving UI/UX.
-- Built and shipped a **production PWA** with Angular (installable, responsive, user-focused).
-- **8 years** in Software Support (including **4 years Team Lead**) → strong ownership, communication, and cross-team collaboration.
+- Angular / TypeScript Frontend Developer focused on building clean, scalable web apps with great UX.
+- Experienced in creating reusable UI components, managing state, and integrating REST APIs.
+- Comfortable working in agile teams, taking ownership of features end-to-end, and collaborating effectively with backend and product.
+- Currently based near Hamburg (Quickborn) and open to Remote / Hybrid opportunities.
 
 ---
 
