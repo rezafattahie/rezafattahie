@@ -1,4 +1,4 @@
-# Hi, I'm Reza 👋
+# Hi there, I'm Reza Fattahi👋
 
 **Angular / TypeScript Frontend Developer** based near **Hamburg, Germany (Quickborn)**  
 🌐 Website: https://app-reza.com  
