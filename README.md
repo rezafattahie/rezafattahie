@@ -1,6 +1,6 @@
 # Hi there, I'm Reza Fattahi👋
 
-**Angular / TypeScript Frontend Developer** based near **Hamburg, Germany (Quickborn)** 
+**Angular/TypeScript Frontend Developer | Hamburg, Germany** 
 
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
