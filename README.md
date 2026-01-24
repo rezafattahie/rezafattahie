@@ -20,7 +20,7 @@
 📧 Email: rezafatahy@gmail.com
 🌐 Website: https://app-reza.com
 
-**Top Repos:**
+**Top Repositories:**
 - Listen&Repeat(Angular): https://github.com/rezafattahie/listen-repeat-angular-demo
 - Transactions(Angular): https://github.com/rezafattahie/transactions-angular
 
