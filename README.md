@@ -1,35 +1,63 @@
+# Hi, I'm Reza 👋
 
-# 👋 Reza Fattahi
-**Angular Developer (TypeScript / RxJS) — Hamburg, Germany**  
-📍 Quickborn • 🌐 https://app-reza.com • 💼 https://linkedin.com/in/rezafattahi • ✉️ rezafatahy@gmail.com
+**Angular / TypeScript Frontend Developer** based near **Hamburg, Germany (Quickborn)**  
+🌐 Website: https://app-reza.com  
+💼 LinkedIn: https://linkedin.com/in/rezafattahi  
+📧 Email: rezafatahy@gmail.com
 
----
-
-## 🚀 What I do
-I build clean, maintainable web apps with **Angular (v20)**, **TypeScript**, and **RxJS**.  
-I care about solid component structure, reliable API integration, and a great user experience.
-
-- ~ **1.5 years professional experience** with Angular/TypeScript  
+![](https://komarev.com/ghpvc/?username=rezafattahie&style=flat-square)
 
 ---
 
-## ⭐ Featured Project
-### 🇩🇪 Deutschlern-PWA — https://app-reza.com
-**Tech:** Angular 20 • TypeScript • RxJS • TailwindCSS • Backendless (REST) • Netlify • PWA  
-- Interactive YouTube learning experience (subtitles, vocabulary workflow)  
-- Clean JSON data handling and UI rendering  
-- Installable, responsive PWA  
+## About me
+- **1.5+ years** hands-on experience with **Angular + TypeScript**, building reusable components, integrating REST APIs, and improving UI/UX.
+- Built and shipped a **production PWA** with Angular (installable, responsive, user-focused).
+- **8 years** in Software Support (including **4 years Team Lead**) → strong ownership, communication, and cross-team collaboration.
 
 ---
 
-## 🧰 Skills
-- **Frontend:** Angular (v20), TypeScript, RxJS, HTML5, CSS/SCSS, TailwindCSS, Responsive UI
-- **API:** REST, JSON, Postman/Swagger
-- **Workflow:** Git/GitHub, Agile/Scrum, Debugging, Performance
-  
+## Tech stack
+<p>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="RxJS" src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img alt="PWA" src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
 ---
 
-## 📌 Open to opportunities
-✅ Roles: **Angular Developer** (Remote/Hybrid) 
-📍 Location: **Quickborn (near Hamburg)**  
-📄 Work permit: valid
+## Featured project
+### 🇩🇪 German Learning PWA (Production)
+**Live:** https://app-reza.com
+
+Highlights:
+- Interactive learning flow (video + subtitles + practice)
+- REST-based data flow and structured JSON handling in the UI
+- Installable PWA + responsive UI with a strong usability focus
+- Daily backup scripts in Python for data safety
+
+> 🔗 Add your repository link here:
+> - Repo: https://github.com/rezafattahie/<YOUR-REPO-NAME>
+
+---
+
+## GitHub stats
+![GitHub Streak](https://streak-stats.demolab.com?user=rezafattahie&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezafattahie&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezafattahie&layout=compact&hide_border=true)
+
+---
+
+## Let’s connect
+If you’d like to collaborate (Angular / Frontend), feel free to reach out:
+- Email: rezafatahy@gmail.com
+- LinkedIn: https://linkedin.com/in/rezafattahi
+- Website: https://app-reza.com
