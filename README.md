@@ -6,8 +6,8 @@
 📧 Email: rezafatahy@gmail.com
 
 **Top Repos:**
- - (https://github.com/rezafattahie/listen-repeat-angular-demo)
- - (https://github.com/rezafattahie/transactions-angular)
+Listen&Repeat(Angular): https://github.com/rezafattahie/listen-repeat-angular-demo
+Transactions(Angular): https://github.com/rezafattahie/transactions-angular
 
 ![](https://komarev.com/ghpvc/?username=rezafattahie&style=flat-square)
 
