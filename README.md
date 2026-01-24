@@ -4,6 +4,9 @@
 🌐 Website: https://app-reza.com  
 💼 LinkedIn: https://linkedin.com/in/rezafattahi  
 📧 Email: rezafatahy@gmail.com
+**Top Repos:
+ - (https://github.com/rezafattahie/listen-repeat-angular-demo)
+ - (https://github.com/rezafattahie/transactions-angular)**
 
 ![](https://komarev.com/ghpvc/?username=rezafattahie&style=flat-square)
 
@@ -31,12 +34,6 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
-
----
-
-## Top Repos:
-> - Repo: (https://github.com/rezafattahie/listen-repeat-angular-demo)
-> - - Repo: (https://github.com/rezafattahie/transactions-angular)
 
 ---
 
