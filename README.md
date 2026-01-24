@@ -1,4 +1,4 @@
-# Hi there, I'm Reza Fattahi👋
+## Hi there, I'm **Reza Fattahi**👋
 
 **Angular/TypeScript Frontend Developer | Hamburg, Germany** 
 
@@ -16,9 +16,9 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
-🌐 Website: https://app-reza.com  
-💼 LinkedIn: https://linkedin.com/in/rezafattahi  
+💼 LinkedIn: https://linkedin.com/in/rezafattahi
 📧 Email: rezafatahy@gmail.com
+🌐 Website: https://app-reza.com
 
 **Top Repos:**
 - Listen&Repeat(Angular): https://github.com/rezafattahie/listen-repeat-angular-demo
@@ -51,4 +51,3 @@ Highlights:
 If you’d like to collaborate (Angular / Frontend), feel free to reach out:
 - Email: rezafatahy@gmail.com
 - LinkedIn: https://linkedin.com/in/rezafattahi
-- Website: https://app-reza.com
