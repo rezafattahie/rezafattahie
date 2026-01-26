@@ -32,7 +32,7 @@
 - Angular / TypeScript Frontend Developer focused on building clean, scalable web apps with great UX.
 - Experienced in creating reusable UI components, managing state, and integrating REST APIs.
 - Comfortable working in agile teams, taking ownership of features end-to-end, and collaborating effectively with backend and product.
-- Currently based near Hamburg (Quickborn) and open to Remote / Hybrid opportunities.
+- Currently based near Hamburg (Quickborn) and open to Remote / Hybrid / On-site opportunities.
 
 ---
 
