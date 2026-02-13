@@ -21,9 +21,9 @@
 🌐 Website: https://app-reza.com
 
 **My Recent Repositories:**
-- Google Signin(Angular): https://github.com/rezafattahie/google-signin-auth-guard
-- Listen&Repeat(Angular): https://github.com/rezafattahie/listen-repeat-angular-demo
-- Transactions(Angular): https://github.com/rezafattahie/transactions-angular
+- Google Signin (Angular): https://github.com/rezafattahie/google-signin-auth-guard
+- Listen&Repeat (Angular): https://github.com/rezafattahie/listen-repeat-angular-demo
+- Transactions (Angular): https://github.com/rezafattahie/transactions-angular
 
 ![](https://komarev.com/ghpvc/?username=rezafattahie&style=flat-square)
 
