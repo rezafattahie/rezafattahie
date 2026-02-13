@@ -18,6 +18,7 @@
 
 💼 LinkedIn: https://linkedin.com/in/rezafattahi
 📧 Email: rezafatahy@gmail.com
+👨🏻‍💻 Portfolio: https://portfolio.app-reza.de
 🌐 Website: https://app-reza.com
 
 **My Recent Repositories:**
