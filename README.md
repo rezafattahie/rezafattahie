@@ -18,8 +18,7 @@
 
 💼 LinkedIn: https://linkedin.com/in/rezafattahi
 📧 Email: rezafatahy@gmail.com
-👨🏻‍💻 Portfolio: https://portfolio.app-reza.de
-🌐 Website: https://app-reza.com
+🌐 Portfolio: https://portfolio.app-reza.de
 
 **My Recent Repositories:**
 - Google Signin (Angular): https://github.com/rezafattahie/google-signin-auth-guard
